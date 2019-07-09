@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{65653ce9-ab86-4834-8589-a3f1a3b1014d}">
+        <property name="assetPath">
+            <value>StevenToastExcerptCh.1 - Trimmed.wav</value>
+        </property>
+        <property name="isStreaming">
+            <value>true</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>110</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{6e1d3444-d306-4adf-a0b0-a1c48fdf7e3d}</destination>
+        </relationship>
+    </object>
+</objects>

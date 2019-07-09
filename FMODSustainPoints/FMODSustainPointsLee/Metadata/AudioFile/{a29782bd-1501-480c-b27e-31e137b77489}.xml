@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{a29782bd-1501-480c-b27e-31e137b77489}">
+        <property name="assetPath">
+            <value>atmos_glasswork_01.aif</value>
+        </property>
+        <property name="isStreaming">
+            <value>true</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>13.000113378684807</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{6e1d3444-d306-4adf-a0b0-a1c48fdf7e3d}</destination>
+        </relationship>
+    </object>
+</objects>
